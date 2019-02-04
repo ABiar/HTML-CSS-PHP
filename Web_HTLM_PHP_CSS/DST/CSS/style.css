@@ -1,0 +1,38 @@
+html, body {
+	margin: 0%;
+	padding: 0%;
+	background: #FFF
+	height: 100%;
+}
+
+.haut{
+	width: 100%
+	background : #7CFFFD;
+}
+
+.haut_titre{
+	background: #7CFFFD;
+	float: left;
+	width: 100%;
+
+}
+.haut_titre_texte{
+	margin: 20%;
+	color: #000;
+	font-size: 30px;
+	text-align: left;
+}
+.clear{
+	padding: 10px;
+}
+
+.gauche{
+	width: 70%
+	background : #AAAAAA;
+}
+
+.droite{
+	width: 70%
+	background : #BBBAAA;
+
+}

@@ -1,0 +1,11 @@
+body{
+	background : #8D8D8D;
+}
+
+.contain{
+	background-color: #4D4545;
+	width: 30%;
+	border: 1px solid #000000;
+	margin: 5% auto 0;
+	text-align: center;
+}

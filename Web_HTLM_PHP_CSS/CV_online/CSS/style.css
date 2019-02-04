@@ -1,0 +1,69 @@
+html, body {
+	margin: 0%;
+	padding: 0%;
+	background: #000000 ;
+	height: 100%
+}
+.droite{
+	float: right;
+	width: 80%;
+	background: #A50000;
+	height: 100%;
+}
+.gauche{
+	float: left;
+	width: 20%;
+	color: #FFF
+}
+.header{
+	width: 100%;
+	margin: 0%;
+	padding: 10px ;
+	color: #FFF ;
+	text-align: center ;
+	font-size: 40px;
+}
+
+.desc{
+	width: 100%;
+	margin: 5%;
+	padding: 5%;
+	color:  #FFF
+	text-align: left;
+	font-size: 17px
+}
+.comp{
+	background: #A50000;
+	margin: 5%;
+	padding: 10px;
+	width: 80%;
+	color: #FFF
+	font-size: 17px;
+	text-align: left;
+}
+span{
+	text-decoration: underline;
+}
+.droite_contain{
+	background: #FFF;
+	width: 80%;
+	margin: 5%;
+	padding: 10px;
+	color: #000
+}
+.titre_droite_contain{
+	text-align: left;
+	font-size: 19px;
+	margin: 5px;
+	color: #000
+}
+.texte_droite_contain{
+	text-align: center;
+	font-size: 16px; 
+	color: #000
+}
+.photo{
+	width: 90%;
+	padding: 5px;
+	margin: 20px;
+}
