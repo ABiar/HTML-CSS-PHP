@@ -1,0 +1,52 @@
+body{
+	background-image: url("../img/fond.jpg");
+}
+
+.gameEvent{
+	height: 100%;
+	width: 70%;
+	float: right;
+	margin : 1% auto 0;
+	text-align: center;
+	padding: 1%;
+	color: #FFF;
+}
+
+.userInterface{
+	float: left;
+	width: 30%;
+	padding: 1%;
+}
+
+.contentEvent{
+	height: 70px;
+	margin-top: 2%
+}
+
+.contentEventPassed{
+	margin-top: 5%; 
+	text-align: center;
+	overflow-y: scroll;
+	height: 360px;
+}
+
+.inventory{
+	margin: 2%;
+	overflow-y: : scroll;
+	height:100px;
+	color: #FFF;
+}
+
+.combat{
+	margin: 10%;
+}
+
+.store{
+	margin-top: 10%;
+	text-align: center;
+	color: #FFF;
+}
+
+h1{
+	color: #FFF
+}
